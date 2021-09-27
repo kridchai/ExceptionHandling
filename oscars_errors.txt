@@ -1,0 +1,35 @@
+Parasite,                20l9, 1,  4,  6
+La La Land,              2016, O,  6, 14
+Moonlight,               2016, 1,  3,
+Hacksaw Ridge            2016, 0,  2,  6
+Manchester by the sea,   2016, 0,  2;  6
+Spotlight,               2015, 1,  2,  6, 6
+Birdman,                20.14, 1,  4,  9
+Whiplash,                2014, 2,  3,  5
+Argo,                    2012, 1,  3, -7
+Django Unchained,        2012, 0,  2,  5
+The Artist,              2011, 1,  5, 10
+Hugo,                    2011, 0,  5, 11
+Inception,               2010, 0,  4,  8
+The Hurt Locker,         2009, 1,  6,  9
+Slumdog Millionaire,     2009, 1,  8, 10
+No Country for Old Men,  2007, 1,  4,  8
+Crash,                   2005, 1,  3,  6
+Memoirs of a Geisha,     2005, 0,  3,  6
+Mystic River,            2003, 0,  2,  6
+A Beautiful Mind,        2001, 1,  4,  8
+Saving Private Ryan,     1998, 0,  5, 11
+Titanic,                 1997, 1, 11, 14
+Braveheart,              1995, 1,  5, 10
+The Piano,               1993, 0,  3,  8
+Jurassic Park,           1993, 0,  3,  3
+Rain Man,                1988, 1,  4,  8
+Platoon,                 1986, 1,  4,  8
+Gandhi,                  1982, 1,  8, 11
+Chariots of Fire,        1981, 1,  4,  7
+The Sound of Music,      1965, 1,  5, 10
+Doctor Zhivago,          1965, 0,  5, 10
+My Fair Lady,            1964, 1,  8, 12
+Mary Poppins,            1964, 0,  5, 13
+West Side Story,         1961, 1, 10, 11
+Ben-Hur,                 1959, 1, 11, 12
